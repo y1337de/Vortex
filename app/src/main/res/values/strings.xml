@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Vortex</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings in xml -->
+    <string name="value_input">Value</string>
+    <string name="calculate">Calculate</string>
+    <!-- Strings in App -->
+    <string name="answer_start">Best answer: (</string>
+    <string name="answer_end">)</string>
+</resources>
